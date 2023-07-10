@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Este plugin de WordPress está diseñado para exportar pedidos de WooCommerce a un archivo CSV. Proporciona una interfaz conveniente en el panel de WordPress donde los usuarios pueden seleccionar un rango de fechas para los pedidos a exportar. Además, permite a los usuarios descargar o eliminar los archivos CSV generados.
+Este plugin permite a los usuarios mostrar datos de un archivo CSV en una tabla HTML utilizando un shortcode. Los usuarios pueden especificar la URL del archivo CSV, las columnas que desean mostrar y los nombres de visualización para esas columnas. 
 
 ## Instalación
 
